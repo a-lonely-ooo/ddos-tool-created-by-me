@@ -1,4 +1,4 @@
- import socket
+ import websocket
  import threading
  import random
  import sys
